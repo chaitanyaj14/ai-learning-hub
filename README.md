@@ -1,6 +1,6 @@
-# 🤖 Learn AI From Scratch
+# 🤖 Learn AI Learning Hub
 
-Welcome to **Learn AI From Scratch** - an open-source, beginner-friendly learning path designed to take you from **zero programming knowledge** to a solid understanding of **Artificial Intelligence**.
+Welcome to **AI Learning Hub** - an open-source, beginner-friendly learning path designed to take you from **zero programming knowledge** to a solid understanding of **Artificial Intelligence**.
 
 This project starts with **Python fundamentals** and gradually builds toward **Machine Learning, Deep Learning, and real-world AI concepts**.
 
