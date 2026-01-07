@@ -2,11 +2,14 @@ site_name: AI Learning Hub
 theme:
   name: material
 
+plugins:
+  - search
+  - mkdocs-jupyter
+
 nav:
   - Home: index.md
   - Python Basics:
-      - Introduction: python/intro.md
-      - Variables: python/variables.md
+      - Introduction: python/intro.ipynb
+      - Variables: python/variables.ipynb
   - Math for AI:
-      - Linear Algebra: math/linear-algebra.md
-
+      - Linear Algebra: math/linear-algebra.ipynb
