@@ -1,0 +1,12 @@
+site_name: AI Learning Hub
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Python Basics:
+      - Introduction: python/intro.md
+      - Variables: python/variables.md
+  - Math for AI:
+      - Linear Algebra: math/linear-algebra.md
+
