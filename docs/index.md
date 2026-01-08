@@ -156,6 +156,7 @@ New notebooks, projects, and advanced topics are added regularly.
 Contributions, suggestions, and improvements are welcome.
 
 If you:<br>
+
 - Find an issue
 - Want to improve explanations
 - Want to add notebooks or projects
