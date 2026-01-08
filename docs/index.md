@@ -97,28 +97,10 @@ The project is divided into **learning phases**, each building on the previous o
 - Docker basics
 - MLOps foundations
 
-### **Phase 9: Projects**
+### **Projects**
 - Beginner, intermediate, and advanced projects
 - End-to-end AI pipelines
 - Real-world, portfolio-ready work
-
----
-
-## 📓 Learning Format
-
-AI Learning Hub uses a **dual-format approach**:
-
-### 📘 Documentation (This Website)
-- Clear explanations
-- Conceptual understanding
-- Structured reading flow
-
-### 📓 Jupyter Notebooks
-- Hands-on coding
-- Experiments and exercises
-- Real datasets and examples
-
-> Read the theory → Run the notebook → Modify → Build something.
 
 ---
 
@@ -139,12 +121,12 @@ AI Learning Hub uses a **dual-format approach**:
 ## 🚀 How to Use AI Learning Hub
 
 1. Start from **Phase 0** if you are new to programming
-2. Progress **phase by phase** — do not skip fundamentals
+2. Progress **phase by phase** - do not skip fundamentals
 3. Run notebooks locally and experiment
 4. Build projects after major phases
 5. Revisit topics whenever needed
 
-There is **no fixed pace** — learn deeply, not quickly.
+There is **no fixed pace** - learn deeply, not quickly.
 
 ---
 
@@ -153,7 +135,8 @@ There is **no fixed pace** — learn deeply, not quickly.
 > AI is not about memorizing algorithms.  
 > AI is about understanding data, thinking clearly, and building systems.
 
-AI Learning Hub focuses on:
+AI Learning Hub focuses on:<br>
+
 - Conceptual clarity
 - Practical skill-building
 - Long-term mastery
@@ -172,7 +155,7 @@ New notebooks, projects, and advanced topics are added regularly.
 
 Contributions, suggestions, and improvements are welcome.
 
-If you:
+If you:<br>
 - Find an issue
 - Want to improve explanations
 - Want to add notebooks or projects
@@ -184,6 +167,6 @@ Feel free to open an issue or submit a pull request on GitHub.
 ## ⭐ Final Note
 
 Whether you're starting your AI journey or refining your skills,  
-**AI Learning Hub** is here to guide you — one concept, one notebook, one project at a time.
+**AI Learning Hub** is here to guide you - one concept, one notebook, one project at a time.
 
 Happy learning! 🚀
