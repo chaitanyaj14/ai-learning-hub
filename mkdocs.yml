@@ -8,8 +8,23 @@ plugins:
 
 nav:
   - Home: index.md
-  - Python Basics:
+  - Phase 0 - Programming Foundations:
       - Introduction: python/intro.ipynb
-      - Variables: python/variables.ipynb
-  - Math for AI:
-      - Linear Algebra: math/linear-algebra.ipynb
+  - Phase 1 - Core Python:
+      - Introduction: python/intro.ipynb
+  - Phase 2 - Intermediate Python:
+      - Introduction: python/intro.ipynb
+  - Phase 3 - Python for Data Handling:
+      - Introduction: python/intro.ipynb
+  - Phase 4 - Mathematics for AI:
+      - Introduction: python/intro.ipynb
+  - Phase 5 - Machine Learning:
+      - Introduction: python/intro.ipynb
+  - Phase 6 - Deep Learning:
+      - Introduction: python/intro.ipynb
+  - Phase 7 - Specialized AI Domains:
+      - Introduction: python/intro.ipynb
+  - Phase 8 - Advanced Python & MLOps:
+      - Introduction: python/intro.ipynb
+  - Projects:
+      - Introduction: python/intro.ipynb
