@@ -11,7 +11,7 @@ nav:
   - Phase 0 - Programming Foundations:
       - Introduction: python/intro.ipynb
   - Phase 1 - Core Python:
-      - Introduction: python/intro.ipynb
+      - Introduction: python/core-python/python-syntax.ipynb
   - Phase 2 - Intermediate Python:
       - Introduction: python/intro.ipynb
   - Phase 3 - Python for Data Handling:
