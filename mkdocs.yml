@@ -27,4 +27,4 @@ nav:
   - Phase 8 - Advanced Python & MLOps:
       - Introduction: python/intro.ipynb
   - Projects:
-      - Introduction: python/intro.ipynb
+      - Introduction: projects/real-estate-price-prediction/real-estate-price-prediction.ipynb
